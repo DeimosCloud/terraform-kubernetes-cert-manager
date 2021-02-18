@@ -56,7 +56,6 @@ Report issues/questions/feature requests on in the issues section.
 Full contributing guidelines are covered [here](CONTRIBUTING.md).
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-
 ## Requirements
 
 | Name | Version |
